@@ -1,0 +1,18 @@
+/* Post */
+.post-container {
+	display: flex;
+	flex-flow: wrap;
+}
+
+.post-items {
+	position: relative;
+	padding: 16px;
+	border: 1px solid #898989;
+	margin: 16px;
+	text-align: center;
+	width: 100%;
+	max-width: 745px;
+	height: 95%; /*the F?*/
+	text-decoration: none;
+	box-shadow: 2px 2px 2px #898989;
+}
